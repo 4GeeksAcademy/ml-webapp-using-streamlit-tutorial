@@ -8,6 +8,7 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 1,
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
 	"description" : "Use Streamlit to create a machine learning web application."
 }
